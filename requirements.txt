@@ -1,14 +1,35 @@
-pandas==2.2.3
-numpy==2.2.3
-streamlit==1.42.0
-# scikit-learn==1.6.1
-# scikit-learn==1.0.2
+# pandas==2.2.3
+# numpy==2.2.3
+# streamlit==1.42.0
+# # scikit-learn==1.6.1
+# # scikit-learn==1.0.2
+# # joblib==1.1.0
+# xgboost==2.1.4
+# # joblib==1.4.28
 # joblib==1.1.0
+# markdown-it-py==3.0.0
+# mdurl==0.1.2
+# pygments==2.19.1
+# rich==13.9.4
+# pip==25.0.1  # or the latest version
+
+# Basic Libraries
+pandas==1.5.3
+numpy==1.23.5
+
+# Streamlit and related
+streamlit==1.42.0
 xgboost==2.1.4
-# joblib==1.4.28
 joblib==1.1.0
+
+# Rich text display and markdown
 markdown-it-py==3.0.0
 mdurl==0.1.2
 pygments==2.19.1
 rich==13.9.4
-pip==25.0.1  # or the latest version
+
+# Scikit-learn (latest stable)
+scikit-learn==1.2.2
+
+# Latest pip
+pip==25.0.1
